@@ -1,0 +1,9 @@
+#all the to be installed packages
+
+fitz  # PyMuPDF for PDF reading
+openai
+PIL
+os
+uuid
+pyttsx3
+subprocess
