@@ -2,7 +2,7 @@
 # Libraries Needed
 import fitz  # PyMuPDF for PDF reading
 import openai
-from  Pillow import Image, ImageDraw, ImageFont
+from Pillow import Image, ImageDraw, ImageFont
 import os
 import uuid
 import pyttsx3
