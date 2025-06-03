@@ -2,7 +2,7 @@
 
 fitz  # PyMuPDF for PDF reading
 openai
-# 
+PIL
 Pillow
 os
 uuid
